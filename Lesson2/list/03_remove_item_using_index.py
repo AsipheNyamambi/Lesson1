@@ -5,8 +5,10 @@ print()
 
 #remove an item from the list
 #remove using the values
-#numbers.remove(10)
+#umbers.remove(10)
 #print(numbers)
+
+
 
 #remove using the index
 numbers.pop(0)
