@@ -1,3 +1,5 @@
+from Lesson1.homework import name
+
 numbers = [10, 20, 30]
 #numbers = [10, 20, 30] #bad programming practice
 #index start at 0

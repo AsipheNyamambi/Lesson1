@@ -6,7 +6,12 @@ print(response)
 
 print('')
 print('Response from API')
-print(type(response.json))
+print(response.json())
 
 print()
-print(f'status code: {response.status_code}')
+print(f'Status code is: {response.status_code}')
+
+
+
+
+
